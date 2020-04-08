@@ -3,6 +3,7 @@
 The two included files:
 - MagicPython.tmLanguage.json
 - MagicRegExp.tmLanguage.json
+
 are the cson python syntax files from [Atom Python Syntax](https://github.com/atom/language-python) converted to json and renamed to the VSCode python syntax files.
 
 ## Use:
