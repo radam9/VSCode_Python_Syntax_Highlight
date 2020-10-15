@@ -9,3 +9,6 @@ are the cson python syntax files from [Atom Python Syntax](https://github.com/at
 ## Use:
 
 replace the two files in the following VSCode path ``VSCode\resources\app\extensions\python\syntaxes`` with the ones in this repo
+
+
+**Note:** Seems like it is not functioning anymore, needs to be looked into.
